@@ -1,6 +1,6 @@
-a= int(input('Digite um numero: '))
-b= int(input('Digite um numero: '))
-c= int(input('Digite um numero: '))
+a= float(input('Digite um numero: '))
+b= float(input('Digite um numero: '))
+c= float(input('Digite um numero: '))
 
 print (a,b,c)
 # Formúla (b-c<a<b+c) 2 ands = True ( Triangulo) 
